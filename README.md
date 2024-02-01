@@ -2,9 +2,9 @@
 
 #### 🌱 I’m studying computer science at Georgia Tech and graduating in May 2024
 
-#### 🔭 I’m currently working on Deep Learning and High Performance computing projects in school.
+#### 🔭 I’m currently working on Deep Learning and High Performance computing projects in school
 
-#### 😄 I love working on data science and machine learning projects.
+#### 😄 I love working on data science and machine learning projects using python
 
 #### 🤔 Currently, I'm developing my web development skills and want to work on open source projects. I'm interesting in the domains of technology, health, finance, music, workflows
 
