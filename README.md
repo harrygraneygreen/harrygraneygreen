@@ -4,9 +4,9 @@
 
 #### 🔭 I’m currently working on Deep Learning and High Performance computing projects in school
 
-#### 😄 I love working on data science and machine learning projects using python
+#### 😄 I love using data science and machine learning to solve interesting problems.
 
-#### 🤔 Currently, I'm developing my web development skills and want to work on open source projects. I'm interesting in the domains of technology, health, finance, music, workflows
+#### 🤔 Currently, I'm working on my web development skills and want to work on open source projects. I'm interesting in the domains of technology, health, finance, music, workflows
 
 #### 📫 How to reach me: hddgg@icloud.com
 
